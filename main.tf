@@ -5,6 +5,7 @@ instance_type = "t2.micro"
 tags = {
 Name = "Prod"
 module = "X"
+Team   = "WM"
 }
 }
 
